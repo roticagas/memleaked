@@ -1,0 +1,12 @@
+### size
+GET {{host}}/size
+
+### put
+POST {{host}}/put?key=111&value=aaa
+
+### get key
+GET {{host}}/get?key=111
+
+### putr
+POST {{host}}/putr
+
